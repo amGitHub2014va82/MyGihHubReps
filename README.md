@@ -1,9 +1,7 @@
 MyGihHubReps
 ============
 
-This is for test to find out about SVN
-
-I am trying to update from here
+to find out how can I change this to anotehr version
 
 
 
