@@ -3,4 +3,7 @@ MyGihHubReps
 
 This is for test to find out about SVN
 
-change this and update
+
+
+***************** I want to commit this to my GitHub using my SVN $$$$$$$$$$$$$$$$$$$$$$$
+
