@@ -1,4 +1,4 @@
-   var datePicker = angular.module('app', []);
+   var datePicker = angular.module('Myapp', []);
 		datePicker.directive('jqdatepicker', function () {
 		    return {
 		        restrict: 'A',
